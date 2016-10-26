@@ -5,20 +5,20 @@ Repositório criado com o objetivo de divulgar eventos relacionado a Software pe
 # Brazil
 
 ### 2017
-Event | Description |
----- | ----|
-[CampusParty](http://brasil.campus-party.org/)||
-[QCON-SP](http://qconsp.com/)||
-[TDC-SP](http://www.thedevelopersconference.com.br/)||
-[Ruby Conf](www.rubyconf.com.br/)||
-[Furutecom](http://futurecom.com.br)||
-[FITIC](http://fitic.com.br/)||
-[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)||
-[GTER/GTS](http://gtergts.nic.br/)||
-[FacebookF8-SP](https://www.fbf8.com/)|
-[Agile Brasil](https://www.agilebrazil.com)||
-[Agile Trends](https://agiletrendsbr.com/)||
-[DevFest SP](https://devfest.com.br/)||
+Event | Description | Location
+---- | ----| ----|
+[CampusParty](http://brasil.campus-party.org/)|||São Paulo|
+[QCON-SP](http://qconsp.com/)|||São Paulo|
+[TDC-SP](http://www.thedevelopersconference.com.br/)|||São Paulo|
+[Ruby Conf](www.rubyconf.com.br/)||:x:
+[Furutecom](http://futurecom.com.br)||:x:
+[FITIC](http://fitic.com.br/)||:x:
+[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)|||São Paulo|
+[GTER/GTS](http://gtergts.nic.br/)||:x:
+[FacebookF8-SP](https://www.fbf8.com/)|||São Paulo|
+[Agile Brasil](https://www.agilebrazil.com)||:x:
+[Agile Trends](https://agiletrendsbr.com/)||:x:
+[DevFest SP](https://devfest.com.br/)|||São Paulo|
 
 #International
 
@@ -27,23 +27,23 @@ Event | Description |
 Event | Description |
 ---- | ----|
 [FacebookF8-SP](https://www.fbf8.com/)|[FacebookF8-SP](https://www.fbf8.com/)
-[Google IO]()||
-[WWDC]()||
-[Velocity]()||
-[AWS re:Invent]()||
-[Developer Week]()||
-[QCON-SF]()||
-[AnDevCon]()||
-[DefCon]()||
-[New Relic’s FutureStack]()||
-[StrataConf]()||
-[CES (Consumer Electronics Show)]()||
-[TechCrunch Disrupt]()||
-[E3 Expo]()||
-[Microsoft Build]()||
-[Java One]()||
-[LinuxCon]()||
-[Game Developers Conference(GDC)]()||
-[O’Reilly’s Fluent]()||
-[O’Reilly Software Architecture Conference]()||
-[Twitter Hello World]()||
+[Google IO]()||:x:
+[WWDC]()||:x:
+[Velocity]()||:x:
+[AWS re:Invent]()||:x:
+[Developer Week]()||:x:
+[QCON-SF]()||:x:
+[AnDevCon]()||:x:
+[DefCon]()||:x:
+[New Relic’s FutureStack]()||:x:
+[StrataConf]()||:x:
+[CES (Consumer Electronics Show)]()||:x:
+[TechCrunch Disrupt]()||:x:
+[E3 Expo]()||:x:
+[Microsoft Build]()||:x:
+[Java One]()||:x:
+[LinuxCon]()||:x:
+[Game Developers Conference(GDC)]()||:x:
+[O’Reilly’s Fluent]()||:x:
+[O’Reilly Software Architecture Conference]()||:x:
+[Twitter Hello World]()||:x:
