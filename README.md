@@ -5,7 +5,7 @@ Repositório criado com o objetivo de divulgar eventos relacionado a Software pe
 # Brazil
 
 ### 2017
-Event | Description | Location
+Event | date | Location
 ---- | ----| ----|
 [CampusParty](http://brasil.campus-party.org/)||São Paulo|
 [QCON-SP](http://qconsp.com/)||São Paulo|
@@ -24,7 +24,7 @@ Event | Description | Location
 
 ###2017
 
-Event | Description | Location
+Event | Date | Location
 ---- | ----| ----|
 [FacebookF8-SP](https://www.fbf8.com/)|[FacebookF8-SP](https://www.fbf8.com/)
 [Google IO]()||:question:
