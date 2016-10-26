@@ -8,7 +8,6 @@ Repositório criado com o objetivo de divulgar eventos relacionado a Software pe
 Event | Description | Location
 ---- | ----| ----|
 [CampusParty](http://brasil.campus-party.org/)||São Paulo|
-
 [QCON-SP](http://qconsp.com/)||São Paulo|
 [TDC-SP](http://www.thedevelopersconference.com.br/)||São Paulo|
 [Ruby Conf](www.rubyconf.com.br/)||:x:
