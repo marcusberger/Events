@@ -7,18 +7,19 @@ Repositório criado com o objetivo de divulgar eventos relacionado a Software pe
 ### 2017
 Event | Description | Location
 ---- | ----| ----|
-[CampusParty](http://brasil.campus-party.org/)|| |São Paulo|
-[QCON-SP](http://qconsp.com/)|||São Paulo|
-[TDC-SP](http://www.thedevelopersconference.com.br/)|| |São Paulo|
+[CampusParty](http://brasil.campus-party.org/)||São Paulo|
+
+[QCON-SP](http://qconsp.com/)||São Paulo|
+[TDC-SP](http://www.thedevelopersconference.com.br/)||São Paulo|
 [Ruby Conf](www.rubyconf.com.br/)||:x:
 [Furutecom](http://futurecom.com.br)||:x:
 [FITIC](http://fitic.com.br/)||:x:
-[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)|| |São Paulo|
+[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)||São Paulo|
 [GTER/GTS](http://gtergts.nic.br/)||:x:
-[FacebookF8-SP](https://www.fbf8.com/)|| |São Paulo|
+[FacebookF8-SP](https://www.fbf8.com/)||São Paulo|
 [Agile Brasil](https://www.agilebrazil.com)||:x:
 [Agile Trends](https://agiletrendsbr.com/)||:x:
-[DevFest SP](https://devfest.com.br/)|| |São Paulo|
+[DevFest SP](https://devfest.com.br/)||São Paulo|
 
 #International
 
