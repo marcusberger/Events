@@ -26,7 +26,7 @@ Event | date | Location
 
 Event | Date | Location
 ---- | ----| ----|
-[FacebookF8-SP](https://www.fbf8.com/)|[FacebookF8-SP](https://www.fbf8.com/)
+[Facebook F8](https://www.fbf8.com/)||:question:
 [Google IO]()||:question:
 [WWDC]()||:question:
 [Velocity]()||:question:
