@@ -1,6 +1,6 @@
-# Events
+# Technology Events
 
-Repositório criado com o objetivo de divulgar eventos relacionado a Software pelo mundo
+
 
 # Brazil
 
