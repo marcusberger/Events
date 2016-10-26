@@ -10,14 +10,14 @@ Event | Description | Location
 [CampusParty](http://brasil.campus-party.org/)||São Paulo|
 [QCON-SP](http://qconsp.com/)||São Paulo|
 [TDC-SP](http://www.thedevelopersconference.com.br/)||São Paulo|
-[Ruby Conf](www.rubyconf.com.br/)||:x:
-[Furutecom](http://futurecom.com.br)||:x:
-[FITIC](http://fitic.com.br/)||:x:
+[Ruby Conf](www.rubyconf.com.br/)||:question:
+[Furutecom](http://futurecom.com.br)||:question:
+[FITIC](http://fitic.com.br/)||:question:
 [AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)||São Paulo|
-[GTER/GTS](http://gtergts.nic.br/)||:x:
-[FacebookF8-SP](https://www.fbf8.com/)||São Paulo|
-[Agile Brasil](https://www.agilebrazil.com)||:x:
-[Agile Trends](https://agiletrendsbr.com/)||:x:
+[GTER/GTS](http://gtergts.nic.br/)||:question:
+[FacebookF8-SP](https://www.fbf8.com/)||São Paulo|:question:
+[Agile Brasil](https://www.agilebrazil.com)||:question:
+[Agile Trends](https://agiletrendsbr.com/)||:question:
 [DevFest SP](https://devfest.com.br/)||São Paulo|
 
 #International
@@ -27,23 +27,23 @@ Event | Description | Location
 Event | Description | Location
 ---- | ----| ----|
 [FacebookF8-SP](https://www.fbf8.com/)|[FacebookF8-SP](https://www.fbf8.com/)
-[Google IO]()||:x:
-[WWDC]()||:x:
-[Velocity]()||:x:
-[AWS re:Invent]()||:x:
-[Developer Week]()||:x:
-[QCON-SF]()||:x:
-[AnDevCon]()||:x:
-[DefCon]()||:x:
-[New Relic’s FutureStack]()||:x:
-[StrataConf]()||:x:
-[CES (Consumer Electronics Show)]()||:x:
-[TechCrunch Disrupt]()||:x:
-[E3 Expo]()||:x:
-[Microsoft Build]()||:x:
-[Java One]()||:x:
-[LinuxCon]()||:x:
-[Game Developers Conference(GDC)]()||:x:
-[O’Reilly’s Fluent]()||:x:
-[O’Reilly Software Architecture Conference]()||:x:
-[Twitter Hello World]()||:x:
+[Google IO]()||:question:
+[WWDC]()||:question:
+[Velocity]()||:question:
+[AWS re:Invent]()||:question:
+[Developer Week]()||:question:
+[QCON-SF]()||:question:
+[AnDevCon]()||:question:
+[DefCon]()||:question:
+[New Relic’s FutureStack]()||:question:
+[StrataConf]()||:question:
+[CES (Consumer Electronics Show)]()||:question:
+[TechCrunch Disrupt]()||:question:
+[E3 Expo]()||:question:
+[Microsoft Build]()||:question:
+[Java One]()||:question:
+[LinuxCon]()||:question:
+[Game Developers Conference(GDC)]()||:question:
+[O’Reilly’s Fluent]()||:question:
+[O’Reilly Software Architecture Conference]()||:question:
+[Twitter Hello World]()||:question:
