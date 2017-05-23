@@ -9,11 +9,11 @@ Event | date | Location | Year
 ---- | ----| ----| ----|
 [CampusParty](http://brasil.campus-party.org/)|31/01 - 05/02|São Paulo-SP|2016-2017|
 [QCON-SP](http://qconsp.com/)|24,25,26/04|São Paulo-SP|2017|
-[TDC-SP](http://www.thedevelopersconference.com.br/)|:question:|São Paulo-SP|2017|
+[TDC-SP](http://www.thedevelopersconference.com.br/)|18/07 - 22/07|São Paulo-SP|2017|
 [Ruby Conf](http://www.rubyconf.com.br/)|:question:|:question:|2017|
 [Furutecom](http://futurecom.com.br)|02,03,04,05/10|São Paulo-SP|2017|
 [FITIC](http://fitic.com.br/)|15,16,17,18/12|São Paulo-SP|2016|
-[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)|:question:|São Paulo-SP|2017|
+[AWS Summit SP](https://aws.amazon.com/pt/summits/sao-paulo/)|22/06|São Paulo-SP|2017|
 [GTER/GTS](http://gtergts.nic.br/)|07,08,09/12|São Paulo-SP|2016|
 [FacebookF8-SP](https://www.fbf8.com/)|:question:|São Paulo-SP|:question:|2017|
 [Agile Brasil](http://www.agilebrazil.com/2016/en/home-en/)|:question:|:question:|:question:|2017
